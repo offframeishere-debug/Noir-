@@ -1,0 +1,8 @@
+{
+  "name": "NOIRÉ",
+  "description": "A responsive premium dark luxury restaurant website with minimalist editorial design, botanical tasting menus, chef philosophy, cinematic gallery, and interactive table reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
